@@ -4,7 +4,7 @@
 
     <groupId>com.google.in</groupId>
     <artifactId>google.code</artifactId>
-    <version>google</version>
+    <version>google1</version>
     <packaging>jar</packaging>
 
     <name>Modern Java RPC stack using Jetty+Jersey+Jackson+MessagePack (from https://github.com/making/msgpack-rpc-jersey-blank)</name>
