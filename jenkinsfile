@@ -1,4 +1,4 @@
 node{
    stage("SCMCheckout'){
-   git 'https://github.com/chanikya-1054/docker-tomcat.git'
+   git 'https://github.com/chanikya1054/Demo.git'
    }
